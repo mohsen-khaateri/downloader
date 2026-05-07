@@ -1,4 +1,4 @@
-# 100MB
+# 100MB.zip - Download Failed
 
 ---
 
@@ -6,28 +6,29 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `100MB.bin` |
-| **Total Size** | **3 parts** - **100.01 MB** |
-| **Status** | **Complete (100%)** |
-| **Password Protected** | **NO** |
+| **File** | `100MB.zip` |
+| **URL** | ftp://212.183.159.230/pub/100MB.zip |
+| **Date** | 2026-05-07 13:44:41 UTC |
+| **Status** | **FAILED** |
 
 ---
 
-## Download Links
+## Error Details
 
-| # | File | Link |
-|---|------|------|
-| 1 | `100MB.z01` | [Download](https://github.com/keepfiless/downloader/raw/main/downloads/100MB/100MB.z01) |
-| 2 | `100MB.z02` | [Download](https://github.com/keepfiless/downloader/raw/main/downloads/100MB/100MB.z02) |
-| 3 | `100MB.zip` | [Download](https://github.com/keepfiless/downloader/raw/main/downloads/100MB/100MB.zip) |
+```
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       #=#=-#  #                                                                      -#O#- #   #                                                                    -=#=#   #   #                                                                  -=O#-#   #   #                                                                 curl: (67) Access denied: 530
+```
 
 ---
 
-## How to Extract
+## Possible Solutions
 
-1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
-2. **Open** `100MB.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
-3. **Extract** — all parts combine automatically
+- Check if the URL is correct and accessible
+- The file may have been removed or moved
+- The server may require authentication
+- For SourceForge: Try using the direct download link
+- Some servers block automated downloads (403 Forbidden)
+- Try again later if it is a temporary server issue
 
 ---
 
